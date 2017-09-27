@@ -1,0 +1,5 @@
+C:\Users\ddepaul\Desktop\C# Programs\FrontlineCodeChallenge_DePaul\FrontlineCodeChallenge_DePaul\bin\Debug\FrontlineCodeChallenge_DePaul.exe.config
+C:\Users\ddepaul\Desktop\C# Programs\FrontlineCodeChallenge_DePaul\FrontlineCodeChallenge_DePaul\bin\Debug\FrontlineCodeChallenge_DePaul.exe
+C:\Users\ddepaul\Desktop\C# Programs\FrontlineCodeChallenge_DePaul\FrontlineCodeChallenge_DePaul\bin\Debug\FrontlineCodeChallenge_DePaul.pdb
+C:\Users\ddepaul\Desktop\C# Programs\FrontlineCodeChallenge_DePaul\FrontlineCodeChallenge_DePaul\obj\Debug\FrontlineCodeChallenge_DePaul.exe
+C:\Users\ddepaul\Desktop\C# Programs\FrontlineCodeChallenge_DePaul\FrontlineCodeChallenge_DePaul\obj\Debug\FrontlineCodeChallenge_DePaul.pdb
